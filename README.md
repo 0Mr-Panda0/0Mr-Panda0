@@ -10,7 +10,7 @@
       </a>
     <!--Leetcode Badge-->
       <a href="https://www.hackerrank.com/profile/karan_behera">
-        <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Kackerrank Badge"/>
+        <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
       </a>
     <!--Hackerrank Badge-->
       <a href="https://leetcode.com/u/0Mr-Panda0/">
