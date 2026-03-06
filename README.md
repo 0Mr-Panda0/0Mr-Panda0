@@ -1,4 +1,4 @@
-    <div align="center">
+<div align="center">
 
 <!-- Gruvbox Dark Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2021,50:282828,100:3c3836&height=200&section=header&text=Karan%20Behera&fontSize=60&fontColor=ebdbb2&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Architect&descSize=18&descAlignY=58&descColor=a89984&animation=fadeIn" />
