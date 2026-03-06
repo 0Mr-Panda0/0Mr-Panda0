@@ -25,7 +25,7 @@
 class KaranBehera:
     name        = "Karan Behera"
     role        = "Data Engineer"
-    location    = "India 🇮🇳"
+    location    = "Ghana" 
     focus       = ["Data Engineering", "ETL Pipelines", "Cloud Data Warehousing"]
     learning    = ["Machine Learning", "AI/LLMs", "MLOps"]
     fuel        = "🍜 Noodles + ☕ Coffee"
