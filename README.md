@@ -1,4 +1,4 @@
-<div align="center">
+    <div align="center">
 
 <!-- Gruvbox Dark Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2021,50:282828,100:3c3836&height=200&section=header&text=Karan%20Behera&fontSize=60&fontColor=ebdbb2&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Architect&descSize=18&descAlignY=58&descColor=a89984&animation=fadeIn" />
@@ -25,7 +25,7 @@
 class KaranBehera:
     name        = "Karan Behera"
     role        = "Data Engineer"
-    location    = "Ghana" 
+    location    = "Ghana"
     focus       = ["Data Engineering", "ETL Pipelines", "Cloud Data Warehousing"]
     learning    = ["Machine Learning", "AI/LLMs", "MLOps"]
     fuel        = "🍜 Noodles + ☕ Coffee"
@@ -60,6 +60,7 @@ class KaranBehera:
 <td width="50%">
 
 ### 🔄 Data Engineering
+
 - Design & build **ETL/ELT pipelines** at scale
 - Architect **cloud data warehouses** on Azure
 - Optimize SQL queries & database performance
@@ -69,6 +70,7 @@ class KaranBehera:
 <td width="50%">
 
 ### 🧠 Machine Learning
+
 - Exploratory data analysis & feature engineering
 - Build & evaluate **ML models** with scikit-learn
 - Model deployment via **Flask APIs**
@@ -83,21 +85,25 @@ class KaranBehera:
 ## 🛠️ Tech Stack
 
 #### 🐍 Languages
+
 ![Python](https://img.shields.io/badge/Python-d79921?style=for-the-badge&logo=python&logoColor=1d2021)
 ![SQL](https://img.shields.io/badge/SQL-458588?style=for-the-badge&logo=postgresql&logoColor=ebdbb2)
 
 #### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-458588?style=for-the-badge&logo=mysql&logoColor=ebdbb2)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-cc241d?style=for-the-badge&logo=microsoftsqlserver&logoColor=ebdbb2)
 ![SQLite](https://img.shields.io/badge/SQLite-504945?style=for-the-badge&logo=sqlite&logoColor=ebdbb2)
 
 #### ☁️ Cloud & DevOps
+
 ![Azure](https://img.shields.io/badge/Azure-83a598?style=for-the-badge&logo=microsoftazure&logoColor=1d2021)
 ![Git](https://img.shields.io/badge/Git-d65d0e?style=for-the-badge&logo=git&logoColor=ebdbb2)
 ![GitHub](https://img.shields.io/badge/GitHub-3c3836?style=for-the-badge&logo=github&logoColor=ebdbb2)
 ![Linux](https://img.shields.io/badge/Linux-d79921?style=for-the-badge&logo=linux&logoColor=1d2021)
 
 #### 📊 Data & ML
+
 ![Pandas](https://img.shields.io/badge/Pandas-458588?style=for-the-badge&logo=pandas&logoColor=ebdbb2)
 ![NumPy](https://img.shields.io/badge/NumPy-83a598?style=for-the-badge&logo=numpy&logoColor=1d2021)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-d65d0e?style=for-the-badge&logo=scikitlearn&logoColor=ebdbb2)
